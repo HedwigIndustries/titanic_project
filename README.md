@@ -4,6 +4,8 @@
 
 #### The project has a `snakemake` pipeline configured.
 
+#### the project supports `git lfs` interment.
+
 You can find rules that can execute the pipeline, which located in the file `run.smk`.
 
 #### To run some task use:
