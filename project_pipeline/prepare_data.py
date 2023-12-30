@@ -5,7 +5,7 @@ from sklearn.preprocessing import LabelEncoder
 
 
 def load_data():
-    df = pd.read_csv('../Data/train.csv')
+    df = pd.read_csv('../data/train.csv')
     return df
 
 
